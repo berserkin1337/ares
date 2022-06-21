@@ -1,0 +1,15 @@
+.nav-one {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  position: relative;
+}
+
+.nav-two {
+    display: flex;
+    flex-direction: row;
+}
+.nav-three {
+    justify-content: flex-end;
+}
